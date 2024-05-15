@@ -1,0 +1,117 @@
+import 'package:tqk_lens/core/utils/global_variables.dart';
+
+final Map<String, String> enUs = {
+  "lbl_version_1_0_0b": "Version: 1.0.0b",
+  "lbl_activity": "Activity",
+  "lbl_food_suggestion": "Food Suggestion",
+  "msg_hello_taylor_swift": "Hello $global_username",
+  "msg_let_s_learn_more": "Let’s Learn More About Foods",
+  "msg_search": "Search............",
+  "lbl_log_in": "Log In!",
+  "msg_don_t_have_any_account": "Don’t have any account? Sign up",
+  "msg_forgot_password": "Forgot Password?",
+  "lbl_sign_up": "Sign Up",
+  "msg_confirm_password": "CONFIRM PASSWORD",
+  "msg_enter_confirm_password": "Enter confirm password",
+  "msg_i_accept_the_policy": "I accept the policy and terms.",
+  "lbl_forgot_password": "Forgot Password",
+  "lbl_reset_password": "Reset Password",
+  "lbl_email_address": "EMAIL ADDRESS",
+  "lbl_enter_password": "Enter password",
+  "lbl_log_in2": "Log In",
+  "lbl_login2": "Login",
+  "lbl_or": "OR",
+  "lbl_password": "PASSWORD",
+  "msg_alreay_have_account": "Alreay have account? Login",
+  "msg_alreay_have_account2": "Alreay have account? ",
+  "msg_taylorswift_mail_com": "TaylorSwift@mail.com",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_app_screen": "app screen",
+  "lbl_home": "Home",
+  "lbl_login_screen": "Login screen",
+  "lbl_signup_screen": "Signup screen",
+  "lbl_different": "Different",
+  "msg_account_tqk_lens": "Account Food Lens",
+  "msg_account_utility": "Account & utility",
+  "msg_help_center": "Help center",
+  "msg_help_settings": "Settings    ",
+  "msg_help_log": "Log out     ",
+  "lbl_favorites": "Favorites",
+  "lbl_member": "Member",
+  "lbl_taylor_swift": "$global_username",
+  "lbl_favorite": "Favorite",
+  "lbl_profile": "Profile",
+  "msg_check_your_app_s":
+      "Check your app's UI from the below demo screens of your app.",
+  "msg_forgot_pwd_screen": "forgot pwd screen",
+  "msg_network_err": "Network Error",
+  "msg_something_went_wrong": "Something Went Wrong!",
+  "lbl_0971039079": "0971039079",
+  "lbl_account_setup": "Account setup",
+  "lbl_email": "Email",
+  "lbl_facebook": "Facebook",
+  "lbl_phone": "phone",
+  "lbl_reset_pasword": "Reset Pasword",
+  "lbl_taylorswift": "$global_username",
+  "lbl_username": "Username",
+  "msg_social_media_account": "Social media account",
+  "msg_taylorswift_gmail_com": "TaylorSwift@gmail.com",
+  "lbl_help_center": "Help center",
+  "lbl_send": "Send",
+  "lbl_tqk_lens": "Food Lens",
+  "msg_frequently_asked": "Frequently Asked Questions (FAQ)\n",
+  "msg_how_do_i_register": "How do I register an account on \"",
+  "msg_main_features_ingredient":
+      "Main Features:\nIngredient Recognition: Open the recognition feature and point the camera towards the ingredient to receive information and recipe suggestions.\nRecipe Search: Use the search bar to find cooking recipes based on the dish name or ingredients.\nSave and Manage Favorite Recipes: Save cooking recipes to your favorites list and easily manage them.\nAdjust Settings: Access the settings page to adjust options such as notifications and display mode.\n",
+  "msg_messenger_tqk_lens": "Messenger Food Lens ...",
+  "msg_to_register":
+      "\"? To register, open the app and select \"Register\". Fill in the required information and follow the instructions.\nCan I find recipes using the ingredients I have? Yes, use the ingredient recognition feature through the camera or enter the ingredient in the search bar to receive recipe suggestions.\n",
+  "msg_tqk_lens_app_user":
+      "\"Food Lens\" App User Guide\n\nMain Features:\nIngredient Recognition: Open the recognition feature and point the camera towards the ingredient to receive information and recipe suggestions.\nRecipe Search: Use the search bar to find cooking recipes based on the dish name or ingredients.\nSave and Manage Favorite Recipes: Save cooking recipes to your favorites list and easily manage them.\nAdjust Settings: Access the settings page to adjust options such as notifications and display mode.\n\nFrequently Asked Questions (FAQ)\nHow do I register an account on \"TQK Lens\"? To register, open the app and select \"Register\". Fill in the required information and follow the instructions.\nCan I find recipes using the ingredients I have? Yes, use the ingredient recognition feature through the camera or enter the ingredient in the search bar to receive recipe suggestions.\n",
+  "msg_tqk_lens_app_user2": "\"Food Lens\" App User Guide\n",
+  "lbl_notification": "Notification",
+  "lbl_theme": "Theme",
+  "msg_terms_of_service": "Terms of Service",
+  "msg_21110298_ng_kim":
+      "21110298 Đặng Kim Thành\n21110202 Bùi Quốc Khang\n21110279 Lê Minh Quang\n21110820 Trương Thị Thùy Dung",
+  "lbl_app_information": "App information",
+  "lbl_settings": "Settings",
+  "lbl_accountsetup2": "AccountSetup",
+  "lbl_appinformation2": "AppInformation",
+  "lbl_helpcenter2": "HelpCenter",
+
+  "err_msg_please_enter_valid_password": "Please enter valid password",
+  "err_msg_please_enter_valid_email": "Please enter valid email",
+  "lbl_save": "Save",
+  "lbl_username_new": "Username New",
+  "lbl_change_pasword": "Change Password",
+
+  // change password Screen
+  "lbl_change_password": "Change Password",
+  "lbl_new_password": "NEW PASSWORD",
+  "lbl_submit": "Submit",
+  "msg_confirm_new_password": "CONFIRM NEW PASSWORD",
+  "lbl_terms_of_service": "Terms of service",
+  "msg_terms_of_use": "\Terms of Use\n",
+  "msg_terms_mo":
+      "\n\PlantSnap, Inc., its affiliate entities and any successor entity, (collectively, \"Provider\") maintains the FoodLens website and mobile application, including related features, products, and services (collectively, the \"Service\"). You should read these Terms of Use (this \"Agreement\") carefully before using the Service. Access to and use of the Service is subject to the terms and conditions set forth below, and your use of the Service constitutes your acceptance of this Agreement. If you do not agree to this Agreement, you should not use the Service. Provider may revise this Agreement from time to time. Although Provider may include a notice on the home page of the Service that the Agreement has been modified, such notice may not remain in place for any extended period of time. Accordingly, you should review the Agreement as posted on the Service from time to time. Using the Service after any revised Agreement has been posted will constitute your acceptance of the revised terms.\n",
+  "msg_mot": "\n\1. Purpose of the Service\n",
+  "msg_mot_mot":
+      "FoodLens service helps you identify plants and fruits through image recognition technology. We use photos submitted by you to provide the Services. You acknowledge that Provider disclaims any responsibility or liability in connection with your use of the Services (see \"Disclaimer of Warranties\" below). You may never rely on the Services to determine whether any plant, flower, fruit or any other substance is safe to eat or consume, and Provider hereby specifically disclaims any responsibility or liability related to your use of the Services for this purpose.",
+
+  "msg_hai": "\n\2. Use of the Services\n",
+  "msg_hai_mot":
+      "Use of the Service may be made via a compatible mobile device. You agree that you are solely responsible for these requirements, including any changes, updates, and terms of your agreements with your telecommunications and mobile device providers. You may only access and use the Services for lawful purposes. You agree that the Provider may use your feedback, suggestions or ideas in any way, including in future modifications of the Services, other products or services, promotional materials advertising or marketing. You grant to Vendor a perpetual, worldwide, fully transferable, sublicensable, irrevocable, royalty-free license to use the feedback you provide to Vendor in accordance with any way. You also agree that you will not: (i) use any robot, spider, scraper, deep linking or other data gathering or extraction tool, program, algorithm or method other similar automation to access, collect, copy or monitor the Services or any portion thereof; (ii) post or transmit any files that contain viruses, worms, Trojan horses or any other contaminating or destructive features or that interfere with the proper working of the Provider or the Services; or (iii) attempt to decipher, decompile, disassemble or reverse engineer any of the software comprising or in any way making up a part of the Services.",
+
+  "msg_ba": "\n\3. Fair Use\n",
+  "msg_ba_mot":
+      "Your access to and use of the Services is subject to all applicable international, federal, state and local laws and regulations. You represent and warrant that you will not use the Services in any manner or for any purpose that is unlawful or prohibited by this Agreement. The Provider reserves the right to terminate your membership in the event that the Provider becomes aware of your violation.",
+
+  "msg_bon": "\n\4. User Accounts\n",
+  "msg_bon_mot":
+      "To post photographs and otherwise use the Service, you must first register by creating a User Account. You should take measures to maintain and preserve the confidentiality of the username and password associated with your User Account, and you must notify Provider promptly of any unauthorized use or suspected breach of security of your User Account. Provider shall not be liable for any losses that may result from any unauthorized use of your User Account or failure to maintain appropriate confidentiality measures. You agree not to disclose your password to any third party and to take sole responsibility for any activities or actions under your User Account, whether or not you have authorized such activities or actions. Provider owns your User Account credentials and may revoke or change them at any time.",
+
+  "msg_nam": "\n\5. User Content\n",
+  "msg_nam_mot":
+      "By using the Service, you may choose to submit information, data, passwords, usernames, PINs, other log-in information, as well as photographs of plants, flowers and trees (collectively, the \"User Content\"). You expressly agree that you shall not post any User Content: (i) that infringes or misappropriates any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy; (ii) that violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising); (iii) that is or may reasonably be considered to be defamatory, libelous, hateful, racially or religiously biased or offensive, unlawfully threatening or unlawfully harassing to any individual, partnership or corporation; pornographic or obscene (iv) that contains individually identifiable health information subject to the HIPPA Privacy Rule; (v) that violates any other agreement you may have entered into with a third party; or (vi) that contains any computer viruses, worms or other potentially damaging computer programs or files.",
+};
